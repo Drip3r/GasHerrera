@@ -1,0 +1,18 @@
+{
+  "name": "Gas Herrera",
+  "short_name": "Gas Herrera",
+  "description": "Suministro de Gas LP en CDMX y Área Metropolitana.",
+  "lang": "es-MX",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08172e",
+  "theme_color": "#08172e",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
