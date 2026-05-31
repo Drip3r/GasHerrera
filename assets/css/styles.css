@@ -867,10 +867,10 @@ footer span{color:var(--gold)}
   .nav-flame{width:30px;height:40px}
 
   .hero{min-height:100svh;align-items:flex-end;padding-top:0;padding-bottom:100px}
-  .hero-content{padding:120px 20px 0}
+  .hero-content{width:100%;max-width:420px;min-width:0;padding:120px 20px 0}
   .hero-eyebrow{font-size:10px;letter-spacing:2px;margin-bottom:16px}
   .hero h1{font-size:34px;margin-bottom:20px}
-  .hero-desc{font-size:15px;margin-bottom:28px}
+  .hero-desc{max-width:100%;font-size:15px;line-height:1.65;margin-bottom:28px;overflow-wrap:break-word}
   .hero-actions{flex-direction:column;gap:10px}
   .btn-gold,.btn-outline{justify-content:center;padding:14px 20px;font-size:13px}
   .hero-proof{grid-template-columns:1fr;margin-top:20px}
